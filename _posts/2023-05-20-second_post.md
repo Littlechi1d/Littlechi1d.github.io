@@ -1,5 +1,8 @@
 # Basic idea of machine learning
 
+1. TOC
+{:toc}
+
 ## A normal computer program
 ![](/images/Program.png "normal program")
 

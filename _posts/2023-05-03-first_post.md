@@ -1,4 +1,8 @@
 # Getting started
+
+1. TOC
+{:toc}
+
 ## What is fast.ai
 
 fastai is a deep learning library based on Pytorch.
