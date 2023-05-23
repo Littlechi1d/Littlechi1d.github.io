@@ -1,9 +1,8 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to this blog. This blog is created by Feiyu Zhang to document my process for UQ ELEC4630 Assignment3 and things I have learned from fastai.
 
 ![Image of fast.ai logo](images/logo.png)
+![Image of fast.ai logo](images/UQLogo.jpg)
 
-## This is a title
+## Feiyu Zhang ELEC4630 AI learning blog
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
-
-I have a *blog*!
+Feiyu Zhang's blog for UQ course ELEC4630 to document my progress for Assignment 3 and what I have learned about AI from the fastai course.
